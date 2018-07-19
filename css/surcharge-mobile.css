@@ -7,7 +7,7 @@
 }
 
 .site-banner {
-  background: url(/theme/sima-sipsa_desktop/img/banner.jpg) center 90px no-repeat;
+  background: url(/theme/sima-sipsa_git_desktop/img/banner.jpg) center 90px no-repeat;
   background-size: cover;
   height: 312px;
 }
@@ -17,43 +17,43 @@
 }
 
 .front .site-banner {
-  background: url(/theme/sima-sipsa_desktop/img/banner_home.jpg) center top no-repeat;
+  background: url(/theme/sima-sipsa_git_desktop/img/banner_home.jpg) center top no-repeat;
   background-size: cover;
   height: 412px;
 }
 
 .parent233776 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-evenements.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-evenements.jpg") no-repeat;
   background-position: center center;
 }
 
 .parent233788 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-infospratiques.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-infospratiques.jpg") no-repeat;
   background-position: center center;
 }
 
 .parent233789 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-visiter.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-visiter.jpg") no-repeat;
   background-position: center center;
 }
 
 .parent233215 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-simasipsa.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-simasipsa.jpg") no-repeat;
   background-position: center center;
 }
 
 .parent233791 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-presse.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-presse.jpg") no-repeat;
   background-position: center center;
 }
 
 .parent233791 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-presse.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-presse.jpg") no-repeat;
   background-position: center center;
 }
 
 .parent233790 .site-banner {
-  background: url("/theme/sima-sipsa_desktop/img/rubrique-exposant.jpg") no-repeat;
+  background: url("/theme/sima-sipsa_git_desktop/img/rubrique-exposant.jpg") no-repeat;
   background-position: center center;
 }
 
@@ -159,7 +159,7 @@
 .site-banner .inside {
   position: relative;
   height: 96px;
-  background: url(/theme/sima-sipsa_desktop/img/frise.png) repeat-x -1019px 33px #fff;
+  background: url(/theme/sima-sipsa_git_desktop/img/frise.png) repeat-x -1019px 33px #fff;
   padding: 0;
 }
 
@@ -465,7 +465,7 @@
 .at-main-title:after {
   position: absolute;
   content: "";
-  background: url(/theme/sima-sipsa_desktop/img/title.png) no-repeat center bottom;
+  background: url(/theme/sima-sipsa_git_desktop/img/title.png) no-repeat center bottom;
   left: 0;
   right: 0;
   bottom: 0;
@@ -521,7 +521,7 @@ a:hover {
 .block-title:after, h1:after, .h1-like:after, .mod-catal h1:after, .mod-catal .h1-like:after {
   position: absolute;
   content: "";
-  background: url(/theme/sima-sipsa_desktop/img/title.png) no-repeat center bottom;
+  background: url(/theme/sima-sipsa_git_desktop/img/title.png) no-repeat center bottom;
   left: 0;
   right: 0;
   bottom: 0;
@@ -567,7 +567,7 @@ h1, .h1-like {
   list-style: none;
   margin: 0 0 20px;
   padding: 0;
-  background: url(/theme/sima-sipsa_desktop/img/rayonnement_bg.jpg) no-repeat center top;
+  background: url(/theme/sima-sipsa_git_desktop/img/rayonnement_bg.jpg) no-repeat center top;
   height: 400px;
   max-width: 580px;
   margin-left: auto;
