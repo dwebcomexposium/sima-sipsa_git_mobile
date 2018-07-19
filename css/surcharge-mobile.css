@@ -1,0 +1,1059 @@
+.btn-primary {
+  border: none;
+}
+
+.btn-primary:focus, .btn-primary:hover {
+  border: none;
+}
+
+.site-banner {
+  background: url(/theme/sima-sipsa_desktop/img/banner.jpg) center 90px no-repeat;
+  background-size: cover;
+  height: 312px;
+}
+
+.site-banner .site-macaron {
+  display: none;
+}
+
+.front .site-banner {
+  background: url(/theme/sima-sipsa_desktop/img/banner_home.jpg) center top no-repeat;
+  background-size: cover;
+  height: 412px;
+}
+
+.parent233776 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-evenements.jpg") no-repeat;
+  background-position: center center;
+}
+
+.parent233788 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-infospratiques.jpg") no-repeat;
+  background-position: center center;
+}
+
+.parent233789 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-visiter.jpg") no-repeat;
+  background-position: center center;
+}
+
+.parent233215 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-simasipsa.jpg") no-repeat;
+  background-position: center center;
+}
+
+.parent233791 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-presse.jpg") no-repeat;
+  background-position: center center;
+}
+
+.parent233791 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-presse.jpg") no-repeat;
+  background-position: center center;
+}
+
+.parent233790 .site-banner {
+  background: url("/theme/sima-sipsa_desktop/img/rubrique-exposant.jpg") no-repeat;
+  background-position: center center;
+}
+
+.site-banner h1, .site-banner .titre1 {
+  display: block;
+  color: #FFF;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.site-banner h1:after, .site-banner .titre1:after {
+  display: none;
+}
+
+.site-banner .titre1 {
+  padding-top: 165px;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: "Montserrat", bold;
+  line-height: 1.2;
+}
+
+.site-banner .main-navigation {
+  top: 156px;
+  right: 0;
+  width: 200px;
+  left: auto;
+  overflow-y: auto;
+}
+
+.site-banner .mn-menu {
+  background-color: #fff;
+  padding: 0;
+  text-align: center;
+}
+
+.site-banner .mn-item-lvl-1 {
+  border: none;
+  background-color: #f3f1f1;
+  min-height: 0;
+}
+
+.site-banner .mn-item-lvl-1 .mn-link {
+  padding-right: 30px;
+}
+
+.site-banner .mn-item-lvl-1 .mn-link .icon::before {
+  line-height: 1;
+}
+
+.site-banner .mn-item-lvl-1 .mn-link span:before {
+  display: none;
+}
+
+.site-banner .mn-item-has-submenu::after {
+  color: #226c30;
+}
+
+.site-banner .mn-item-has-submenu.is-open > a {
+  background-color: #226c30;
+  color: #fff;
+}
+
+.site-banner .mn-item-has-submenu.is-open:after {
+  color: #fff;
+}
+
+.site-banner .mn-menu-submenu {
+  list-style: none;
+  margin: 0;
+  background-color: #E8E8E8;
+  border-bottom: 1px solid rgba(92, 92, 92, 0.2);
+}
+
+.site-banner .mn-menu-submenu .mn-link {
+  padding: .8em;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.site-banner .mn-menu-submenu .mn-menu-item:last-of-type {
+  margin-bottom: 0;
+}
+
+.site-banner .mn-link {
+  color: #4b4b4b;
+}
+
+.site-banner .mn-link.is-active {
+  background-color: #226c30;
+  color: #fff;
+}
+
+.site-banner .site-logo {
+  max-width: 160px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.site-banner .inside {
+  position: relative;
+  height: 96px;
+  background: url(/theme/sima-sipsa_desktop/img/frise.png) repeat-x -1019px 33px #fff;
+  padding: 0;
+}
+
+.site-banner .inside:before {
+  background-color: #fff;
+  content: "";
+  position: absolute;
+  top: 0;
+  height: 45px;
+  width: 100%;
+}
+
+.site-banner .ql-list {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  height: 35px;
+  margin-bottom: 9px;
+  position: relative;
+}
+
+.site-banner .ql-list li {
+  flex: 1 0 33.333%;
+  padding: 2px;
+}
+
+.site-banner .ql-list .btn-primary {
+  background-color: #226c30;
+  border: none;
+  font-size: 11px;
+  text-transform: none;
+  font-family: 'museo-sans', sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 4px;
+  min-height: 35px;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-banner .ql-list .btn-primary i {
+  display: none;
+}
+
+.site-banner .ql-list .linkid171146 .btn-primary {
+  background-color: #95c11f;
+}
+
+.site-banner .ql-list .linkid171147 .btn-primary {
+  background-color: #358a42;
+}
+
+.front #zone2 ul {
+  margin-bottom: 2em;
+  list-style: none;
+  padding: 0;
+}
+
+#zone3 .ql-list {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  height: 35px;
+  margin-bottom: 9px;
+  position: relative;
+}
+
+#zone3 .ql-list li {
+  flex: 1 0 33.333%;
+  padding: 2px;
+}
+
+#zone3 .ql-list .btn-primary {
+  background-color: #226c30;
+  border: none;
+  font-size: 11px;
+  text-transform: none;
+  font-family: 'museo-sans', sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 4px;
+  min-height: 35px;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#zone3 .ql-list .btn-primary i {
+  display: none;
+}
+
+#zone3 .ql-list .linkid171146 .btn-primary {
+  background-color: #95c11f;
+}
+
+#zone3 .ql-list .linkid171147 .btn-primary {
+  background-color: #358a42;
+}
+
+/* HEADER FIXE
+=================================================== */
+.site-banner.is-stuck {
+  height: auto;
+  border-bottom: 1px solid #f3f1f1;
+}
+
+.site-banner.is-stuck .sb-menu-trigger {
+  top: 38px;
+  background-color: #fff;
+  color: #226c30;
+}
+
+.site-banner.is-stuck .site-logo {
+  display: none;
+}
+
+.site-banner.is-stuck h1 {
+  display: none;
+}
+
+.site-banner.is-stuck .main-navigation {
+  right: 0;
+  top: 96px;
+  left: auto;
+}
+
+.site-banner .mn-link {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.site-banner .mn-menu-item-171011 .mn-link, .site-banner .mn-menu-item-171012 .mn-link, .site-banner .mn-menu-item-171013 .mn-link {
+  font-weight: 900;
+}
+
+.banner__caption {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* MENU HAMBURGER
+=================================================== */
+.sb-menu-trigger {
+  width: 60px;
+  height: 59px;
+  top: 100px;
+  font-size: 32px;
+  left: auto;
+  right: 0;
+  color: #fff;
+  z-index: 99;
+}
+
+/* ARTICLES
+=================================================== */
+.grid-la-list {
+  margin: 0;
+}
+
+.grid-la-list > * {
+  width: 100%;
+  margin: 0;
+}
+
+@media screen and (min-width: 480px) {
+  .grid-la-list > * {
+    width: 50%;
+  }
+}
+
+.gla-item {
+  margin-bottom: 15px;
+}
+
+.gla-item img {
+  display: block;
+}
+
+.gla-item-content {
+  position: static;
+}
+
+.gla-btn-read-more {
+  background-color: #226c30;
+  border: none;
+  font-family: 'museo-sans', sans-serif;
+}
+
+.gla-btn-read-more:hover {
+  background: #226c30;
+  color: #fff;
+}
+
+.gla-item {
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+  box-shadow: none;
+}
+
+.gla-item a {
+  text-decoration: none;
+}
+
+.gla-item-img {
+  width: 100%;
+}
+
+.gla-item-content {
+  padding: 15px;
+  background-color: #f3f1f1;
+  position: static;
+}
+
+.gla-item-content .gla-item-btn {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.gla-item-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 17px;
+  text-decoration: none;
+  color: #226c30;
+  border: none;
+  line-height: 1.2;
+}
+
+.gla-item-desc {
+  margin-top: 0;
+  font-size: 13px;
+  color: #5c5c5c;
+  line-height: 1.4;
+}
+
+.gla-item-desc strong {
+  font-weight: 300;
+}
+
+/* ARTICLE SINGLE
+=================================================== */
+.intro {
+  font-weight: 700;
+  color: #226c30;
+  padding: 0 30px 30px 30px;
+  text-align: center;
+}
+
+.article-title .at-illust {
+  display: none;
+}
+
+.article-content blockquote {
+  background-color: #226c30;
+}
+
+.article-content blockquote .icon-quote {
+  background-color: #95c11f;
+}
+
+.article-content h2 {
+  border: none;
+}
+
+.article-content figcaption {
+  display: none;
+}
+
+/* cookie bandeau
+=================================================== */
+.cc-cookie-accept {
+  width: auto;
+  max-width: 120px;
+  text-align: center;
+}
+
+/* MAIN TITLE
+=================================================== */
+.main-title, .nf-title, .sr-title,
+.faq-main-title,
+.at-main-title {
+  float: none;
+  text-align: center;
+  border: none;
+  text-align: center;
+  position: relative;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+  color: #4b4b4b;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+}
+
+.main-title:after, .nf-title:after, .sr-title:after,
+.faq-main-title:after,
+.at-main-title:after {
+  position: absolute;
+  content: "";
+  background: url(/theme/sima-sipsa_desktop/img/title.png) no-repeat center bottom;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 10px;
+}
+
+.main-title-with-link {
+  border: none;
+}
+
+.main-title-with-link > .main-title, .main-title-with-link > .nf-title, .main-title-with-link > .sr-title {
+  float: none;
+  color: #4b4b4b;
+}
+
+body {
+  font-family: 'museo-sans', Gudea, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  background-color: #fff;
+  color: #5c5c5c;
+}
+
+h1, h2, h3, .block-title, .h1-like, .mod-catal h1, .mod-catal .h1-like, .rub-subtitle, .article-content h3, .mod-catal .catal-results-title, .sm-item-title, .mod-catal .esf-intro-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #4b4b4b;
+}
+
+[class^="btn"], .btn {
+  text-transform: none;
+}
+
+a {
+  color: #226c30;
+}
+
+a:hover {
+  color: #95c11f;
+}
+
+.block-title, h1, .h1-like, .mod-catal h1, .mod-catal .h1-like {
+  position: relative;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+  color: #4b4b4b;
+  text-align: center;
+  border: none;
+  font-size: 20px;
+  border: none;
+}
+
+.block-title:after, h1:after, .h1-like:after, .mod-catal h1:after, .mod-catal .h1-like:after {
+  position: absolute;
+  content: "";
+  background: url(/theme/sima-sipsa_desktop/img/title.png) no-repeat center bottom;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 10px;
+}
+
+.rub-title, .article-content h2, .mod-catal .esf-intro-title, .fc-title {
+  color: #226c30;
+  font-weight: bold;
+  font-size: 24px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.rub-title:after, .article-content h2:after, .mod-catal .esf-intro-title:after, .fc-title:after {
+  position: absolute;
+  content: "";
+  width: 40px;
+  height: 5px;
+  bottom: 0;
+  left: 0;
+  background: #226c30;
+}
+
+.rub-subtitle, .article-content h3, .mod-catal .catal-results-title, .sm-item-title {
+  color: #226c30;
+  font-size: 20px;
+}
+
+h1, .h1-like {
+  font-size: 30px;
+}
+
+/* HOME QUICKLINKS
+=================================================== */
+#zone1 .quicklinks {
+  display: none;
+}
+
+/* HOME SALON
+=================================================== */
+.salon-infos {
+  list-style: none;
+  margin: 0 0 20px;
+  padding: 0;
+  background: url(/theme/sima-sipsa_desktop/img/rayonnement_bg.jpg) no-repeat center top;
+  height: 400px;
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.salon-infos li {
+  float: left;
+  width: 50%;
+  color: #FFF;
+}
+
+.salon-infos li:nth-child(1), .salon-infos li:nth-child(2) {
+  padding-top: 80px;
+}
+
+.salon-infos h3, .salon-infos h4 {
+  color: #FFF;
+}
+
+.salon-infos h3 {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.salon-infos h4 {
+  font-size: 14px;
+  position: relative;
+  padding-bottom: 30px;
+}
+
+.salon-infos h4:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 50px;
+  height: 13px;
+  background: #fff;
+  left: 50%;
+  margin-left: -25px;
+}
+
+/* FOOTER
+=================================================== */
+.logos-footer {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.logos-footer li {
+  padding: 10px;
+  max-width: 160px;
+}
+
+.site-footer {
+  padding: 25px 0;
+  background-color: #303030;
+  position: static;
+}
+
+.site-footer img.logo-cmxp-footer {
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.site-footer .sb-menu-trigger {
+  display: none;
+}
+
+.site-footer .menu-footer {
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.site-footer a {
+  color: #5c5c5c;
+}
+
+.site-footer .main-navigation {
+  margin: 20px 0;
+  display: block !important;
+  position: static;
+  width: auto;
+}
+
+.site-footer .main-navigation .mn-menu {
+  background: none;
+}
+
+.site-footer .main-navigation .mn-item-lvl-1 {
+  background: none;
+  border: none;
+}
+
+.site-footer .sima-links a {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: .2em;
+  margin-bottom: .5em;
+  color: #FFF;
+}
+
+.site-footer .sima-links a:first-child {
+  color: #000;
+  background-color: #fff;
+}
+
+.site-footer .sima-links a:nth-child(2) {
+  background-color: #ee6543;
+}
+
+.site-footer .sima-links a:nth-child(3) {
+  background-color: #bd2687;
+}
+
+.movetotop {
+  color: #226c30;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 10px;
+  text-decoration: none;
+  position: fixed;
+  right: 10px;
+  bottom: 100px;
+  z-index: 9999;
+  width: 45px;
+  height: 65px;
+  display: block;
+  text-align: center;
+  padding-top: 35px;
+}
+
+.movetotop:before {
+  content: "";
+  width: 0;
+  height: 0;
+  border: 0 solid transparent;
+  border-right-width: 15px;
+  border-left-width: 15px;
+  border-bottom: 16px solid #226c30;
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* CATALOGUE
+=================================================== */
+.catalogue .site-banner .inside {
+  padding: 0;
+}
+
+.mod-catal .mysel-modal-title .m-btn-to-close, .mod-catal .hist-modal-title .m-btn-to-close {
+  color: #226c30;
+}
+
+.mod-catal .mysel-modal-title .m-btn-to-close:focus, .mod-catal .hist-modal-title .m-btn-to-close:focus, .mod-catal .mysel-modal-title .m-btn-to-close:hover, .mod-catal .hist-modal-title .m-btn-to-close:hover {
+  color: #226c30;
+}
+
+.mod-catal .mysel-title .mysel-close-btn {
+  float: none;
+}
+
+.mysel-title-content {
+  text-align: left;
+}
+
+.block-title.mysel-title:after, h1.mysel-title:after, .mysel-title.h1-like:after {
+  display: none;
+}
+
+.mod-catal .esf-form-zone {
+  background: none;
+  border: none;
+}
+
+.mod-catal .esf-intro-title {
+  font-size: 16px;
+  color: #226c30;
+}
+
+.mod-catal .esf-as-header .esf-as-title {
+  background-color: #226c30;
+}
+
+.mod-catal .esf-as-header .esf-as-title:focus {
+  background-color: #226c30;
+}
+
+.mod-catal.myselection {
+  margin-bottom: 2em;
+}
+
+.mod-catal .qty-round {
+  display: none;
+}
+
+.ql-list {
+  display: flex;
+  justify-content: center;
+  margin: 2em 0;
+}
+
+.ql-list .btn-primary {
+  border: none;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+.ql-list li:last-child .btn-primary {
+  margin-right: 0;
+}
+
+.linkid178483 .btn-primary {
+  background-color: #95c11f;
+}
+
+/* PAGE CONTENT
+=================================================== */
+.article-content ul li::before, .content-list-bullet li::before {
+  background: #226c30;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  margin-top: .5em;
+}
+
+.article-content figure {
+  border: none;
+}
+
+.sv-main-content {
+  background-color: #f4f4f4;
+  padding: 10px;
+  color: #5c5c5c;
+  border: none;
+}
+
+.mod-catal .catal-results-title {
+  border: none;
+  position: relative;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.mod-catal .catal-results-title:after {
+  position: absolute;
+  content: "";
+  width: 40px;
+  height: 5px;
+  bottom: 0;
+  left: 0;
+  background: #226c30;
+}
+
+.nf-main-content {
+  background: #f4f4f4;
+  color: #5c5c5c;
+}
+
+.sm-item-title {
+  border: none;
+  position: relative;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.sm-item-title:after {
+  position: absolute;
+  content: "";
+  width: 40px;
+  height: 5px;
+  bottom: 0;
+  left: 0;
+  background: #226c30;
+}
+
+.nf-form-submit [class^="btn"],
+.nf-form-submit [class^="btn"]:focus {
+  background-color: #226c30;
+  border: none;
+}
+
+.nf-form-submit [class^="btn"]:hover,
+.nf-form-submit [class^="btn"]:focus:hover {
+  border: none;
+  background-color: #95c11f;
+}
+
+.an-item-link .icon {
+  color: #226c30;
+}
+
+.an-item-publication {
+  display: none;
+}
+
+.an-item-link {
+  padding: 1em;
+}
+
+.an-item-previous .an-item-content {
+  padding-left: 50px;
+}
+
+/* CONTACT
+=================================================== */
+input[type="submit"], button {
+  background-color: #226c30;
+  border: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  padding: .8em 1em;
+}
+
+input[type="submit"]:hover, input[type="submit"]:focus, button:hover, button:focus {
+  background-color: #95c11f;
+}
+
+/* CATALOGUE
+=================================================== */
+.mod-catal h1, .mod-catal .h1-like {
+  border: none;
+  color: #4b4b4b;
+}
+
+.mod-catal .esf-as-list-filters .current a {
+  background-color: #226c30;
+}
+
+.mod-catal .catal-ex-item-title a {
+  color: #4b4b4b;
+}
+
+.mod-catal .catal-ex-item-title a:hover {
+  color: #226c30;
+}
+
+.mod-catal .crd-list .crd-item .crd-button:hover,
+.mod-catal .crd-list .crd-item .crd-button {
+  color: #226c30;
+}
+
+.mod-catal .esf-form-zone {
+  padding: 0;
+  border: none;
+  background: none;
+  border-radius: 0;
+}
+
+.mod-catal.exhibitor-search-form a:hover {
+  color: #95c11f;
+}
+
+.mod-catal .esf-search-line #esf-btn-search {
+  background-color: #226c30;
+  border: none;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  color: #fff;
+  border-radius: 0;
+}
+
+.mod-catal .esf-search-line #esf-btn-search:hover {
+  background-color: #95c11f;
+}
+
+.mod-catal .catal-ex-item {
+  background-color: #f3f1f1;
+  margin-bottom: 0;
+}
+
+.mod-catal .catal-ex-item:nth-child(odd) {
+  background: #E8E8E8;
+}
+
+.mod-catal .catal-ex-item-img {
+  min-height: 0;
+  max-width: 80px;
+}
+
+.mod-catal .form-select select {
+  background-color: #95c11f;
+  color: #fff;
+  padding-left: 1em;
+}
+
+.mod-catal .catal-results-selectboxes .form-select select {
+  padding: .5em;
+}
+
+.mod-catal .form-select::after {
+  border-color: #fff transparent transparent transparent;
+}
+
+/* FAQ
+=================================================== */
+.fc-item-link .icon {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #226c30;
+  border-radius: 50%;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+}
+
+.fc-item-link .icon:before {
+  color: #226c30;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.fc-item-link:hover, .fc-item-link:focus {
+  color: #226c30;
+}
+
+.fc-item-link:hover .icon, .fc-item-link:focus .icon {
+  color: #226c30;
+}
+
+.fc-title {
+  border: none;
+}
+
+.fc-item {
+  border: none;
+  padding-left: 75px;
+  position: relative;
+  background-color: #E8E8E8;
+  min-height: 60px;
+}
+
+.fc-item-nb {
+  font-size: 12px;
+  background-color: #226c30;
+}
+
+.fc-item:nth-child(odd) {
+  background-color: #F4F4F4;
+}
+
+.fc-item-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.fc-item-content {
+  padding: 0;
+}
+
+.fs-item-link .icon {
+  color: #226c30;
+}
+
+.skiptranslate {
+  display: none;
+}
+
+.lang-switcher {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+}
+
+.global-search-form {
+  display: none;
+}
