@@ -1057,3 +1057,62 @@ input[type="submit"]:hover, input[type="submit"]:focus, button:hover, button:foc
 .global-search-form {
   display: none;
 }
+
+
+/********Navigation Mobile*********/
+
+.with-mobile-nav nav.main-navigation.js-toggle-target {
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    background-color: #fff;
+    position: fixed;
+}
+
+.mn-menu-line {
+    margin-top: 17vh;
+}
+button.sb-menu-trigger.js-toggle-trigger.unstyled.is-open {
+    z-index: 999;
+    color: green;
+    top: 42px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 21px -6px grey;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+nav.main-navigation.js-toggle-target:before {
+    background-image: url(/theme/sima-sipsa_git_desktop/img/simasipsa_alg.png);
+    position: absolute;
+    content: ' ';
+    width: 100%;
+    height: 150px;
+    top: 0;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.with-mobile-nav i.icon.icon-menu:before {
+    content: ' ';
+    background: url(/theme/sima-sipsa_git_mobile/img/close.png);
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+    display: block;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.with-mobile-nav i.icon.icon-menu:after {
+    content: ' Close ';
+    font-size: 7.5px;
+    color: #606060;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    margin-top: -3px;
+    display: block;
+}
