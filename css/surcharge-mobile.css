@@ -1117,3 +1117,6 @@ nav.main-navigation.js-toggle-target:before {
     margin-top: -3px;
     display: block;
 }
+body.with-mobile-nav {
+    overflow: hidden;
+}
