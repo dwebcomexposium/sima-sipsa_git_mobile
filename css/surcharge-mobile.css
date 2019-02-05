@@ -1080,6 +1080,7 @@ button.sb-menu-trigger.js-toggle-trigger.unstyled.is-open {
     box-shadow: 0px 0px 21px -6px grey;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
+	position: fixed;
 }
 
 nav.main-navigation.js-toggle-target:before {
