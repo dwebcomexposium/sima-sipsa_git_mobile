@@ -1083,7 +1083,7 @@ button.sb-menu-trigger.js-toggle-trigger.unstyled.is-open {
 	position: fixed;
 }
 
-nav.main-navigation.js-toggle-target:before {
+.with-mobile-nav  nav.main-navigation.js-toggle-target:before {
     background-image: url(/theme/sima-sipsa_git_desktop/img/simasipsa_alg.png);
     position: absolute;
     content: ' ';
